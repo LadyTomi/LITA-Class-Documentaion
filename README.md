@@ -10,3 +10,7 @@ This data analysis chart aims to generate insight on how to use excel to create 
 ### Tool Used
 - Microsoft Excel
 - GitHub for portfolio buliding
+
+### Data Visualization
+
+![EXCEL TABLE CHART](https://github.com/user-attachments/assets/7e097eac-19ef-43b3-9709-1f0daa7a00cd)
